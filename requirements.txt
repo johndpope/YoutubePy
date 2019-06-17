@@ -340,7 +340,7 @@ protobuf == 3.6.1
 # env3/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py: 46,150
 # env3/lib/python3.7/site-packages/requests/help.py: 22
 # env3/lib/python3.7/site-packages/urllib3/contrib/pyopenssl.py: 46,150
-pyOpenSSL == 16.2.0
+pyOpenSSL == 17.5.0
 
 # env3/lib/python3.7/site-packages/pylint/__init__.py: 17,25,30,35
 # env3/lib/python3.7/site-packages/pylint/__main__.py: 6
