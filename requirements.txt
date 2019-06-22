@@ -3,7 +3,6 @@
 
 # quickstart.py: 6
 # youtubepy/relationship_tools.py: 9
-SocialCommons == 0.1.dev0
 
 # update_cache.py: 11,19
 bs4 == 0.0.1
